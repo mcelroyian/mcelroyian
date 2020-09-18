@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 
-Hello, I'm Ian McElroy. I'm a full stack developer who loves working with smart people write software that solves problems.
+Hello, I'm Ian McElroy. I'm a full stack developer who loves working with smart people to write software that solves human problems.
 
 - 🔭 I’m currently preparing for technical interviews. That means lots of leetcode and study
 - 💬 Ask me about my favorite stack (React.js and Java Spring with Postgres). No fancy Acronym though...
